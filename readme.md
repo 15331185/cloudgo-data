@@ -45,7 +45,8 @@
 xorm通过连写操作,能简化程序。　　
 　　
 ##### c.服务性能　　
-xorm的效率要低一些。　　
+xorm的效率要低一些。
+
   [1]: https://raw.githubusercontent.com/thougr/cloudgo-data/master/sreenshot/ps.png
   [2]: https://raw.githubusercontent.com/thougr/cloudgo-data/master/sreenshot/run%20mysql.png
   [3]: https://raw.githubusercontent.com/thougr/cloudgo-data/master/sreenshot/createtables.png
